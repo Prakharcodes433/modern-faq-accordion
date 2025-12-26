@@ -18,7 +18,7 @@ A lightweight, high-performance FAQ (Frequently Asked Questions) component desig
 git clone [https://github.com/prakharcodes433/modern-faq-accordion.git](https://github.com/prakharcodes433/modern-faq-accordion.git)
 ```
 
-# 📂 File Structure
+##  File Structure
 ```
 modern-faq-accordion/
 ├── index.html   # Defines the content and hierarchy
