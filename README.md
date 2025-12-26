@@ -5,13 +5,9 @@ A lightweight, high-performance FAQ (Frequently Asked Questions) component desig
 ##  Features
 
 * **Smooth Animations:** Uses CSS cubic-bezier transitions for fluid opening/closing.
-  
 * **Modern UI:** A clean, professional aesthetic using a Slate and Blue color palette.
-  
 * **Responsive:** Works perfectly on desktops, tablets, and mobile devices.
-
-* **Vanilla JS:** No heavy frameworks or libraries required.
-
+* * **Vanilla JS:** No heavy frameworks or libraries required.
 * **Material Icons:** Uses Google Material Symbols for intuitive navigation.
 
 ##  Quick Start
