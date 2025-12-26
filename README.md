@@ -13,3 +13,5 @@ A lightweight, high-performance FAQ (Frequently Asked Questions) component desig
 * **Vanilla JS:** No heavy frameworks or libraries required.
 
 * **Material Icons:** Uses Google Material Symbols for intuitive navigation.
+
+##  Quick Start
