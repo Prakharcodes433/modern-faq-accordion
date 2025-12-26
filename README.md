@@ -15,3 +15,5 @@ A lightweight, high-performance FAQ (Frequently Asked Questions) component desig
 * **Material Icons:** Uses Google Material Symbols for intuitive navigation.
 
 ##  Quick Start
+
+### 1. Clone the repository
