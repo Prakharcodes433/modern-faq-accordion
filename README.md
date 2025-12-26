@@ -27,3 +27,18 @@ modern-faq-accordion/
 ```
 
 ## Functional Logic (JavaScript)
+
+```js
+const accordions = document.querySelectorAll('.accordian');
+
+accordions.forEach(acc => {
+  acc.addEventListener('click', () => {
+    const icon = acc.querySelector('.material-symbols-outlined');
+    const answer = acc.querySelector('.answer');
+    
+    // Toggle the 'active' class
+    icon.classList.toggle('active');
+    answer.classList.toggle('active');
+  });
+});
+```
