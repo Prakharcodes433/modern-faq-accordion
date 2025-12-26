@@ -16,5 +16,6 @@ A lightweight, high-performance FAQ (Frequently Asked Questions) component desig
 
 ```bash
 git clone [https://github.com/prakharcodes433/modern-faq-accordion.git](https://github.com/prakharcodes433/modern-faq-accordion.git)
+```
 
 # 📂 File Structure
