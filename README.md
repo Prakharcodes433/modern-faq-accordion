@@ -25,3 +25,5 @@ modern-faq-accordion/
 ├── style.css    # Handles the layout, colors, and animations
 └── script.js    # Manages the toggle logic (Active/Inactive states)
 ```
+
+## Functional Logic (JavaScript)
