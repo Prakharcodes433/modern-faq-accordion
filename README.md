@@ -19,3 +19,8 @@ git clone [https://github.com/prakharcodes433/modern-faq-accordion.git](https://
 ```
 
 # 📂 File Structure
+
+modern-faq-accordion/
+├── index.html   # Defines the content and hierarchy
+├── style.css    # Handles the layout, colors, and animations
+└── script.js    # Manages the toggle logic (Active/Inactive states)
