@@ -11,3 +11,5 @@ A lightweight, high-performance FAQ (Frequently Asked Questions) component desig
 * **Responsive:** Works perfectly on desktops, tablets, and mobile devices.
 
 * **Vanilla JS:** No heavy frameworks or libraries required.
+
+* **Material Icons:** Uses Google Material Symbols for intuitive navigation.
