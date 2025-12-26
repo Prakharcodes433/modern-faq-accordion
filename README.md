@@ -17,3 +17,6 @@ A lightweight, high-performance FAQ (Frequently Asked Questions) component desig
 ##  Quick Start
 
 ### 1. Clone the repository
+
+```bash
+git clone [https://github.com/your-username/modern-faq-accordion.git](https://github.com/your-username/modern-faq-accordion.git)
