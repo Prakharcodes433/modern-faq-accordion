@@ -5,3 +5,4 @@ A lightweight, high-performance FAQ (Frequently Asked Questions) component desig
 ##  Features
 
 * **Smooth Animations:** Uses CSS cubic-bezier transitions for fluid opening/closing.
+* **Modern UI:** A clean, professional aesthetic using a Slate and Blue color palette.
